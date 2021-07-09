@@ -173,3 +173,11 @@ header .container {
     color: var(--lightgrey);
     line-height: 22px;
 }
+.service {
+    display: flex;
+    background: #efeeee;
+}
+.service-slider {
+    width: 50%;
+    position: relative;
+}
