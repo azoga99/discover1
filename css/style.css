@@ -148,6 +148,28 @@ header .container {
 .fav-container {
     flex-wrap: wrap;
     margin-top: 60px;
-    
-
+}
+.fav-item {
+    width: 48%;
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+}
+.fav-img {
+    width: 40%;
+    margin-right: 30px;
+}
+.fav-text {
+    width: 280px;
+}
+.fav-text h6 {
+    margin: 14px 0 25px;
+    font-size: 15px;
+    color: var(--darkgrey);
+    line-height: 20px;
+}
+.fav-text p {
+    font-size: 14px;
+    color: var(--lightgrey);
+    line-height: 22px;
 }
