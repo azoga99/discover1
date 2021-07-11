@@ -245,7 +245,6 @@ header .container {
     margin: 75px auto;
 }
 .tours-container a {
-    background: red;
     flex: 0 24%;
     margin-bottom: 2%;
 }
