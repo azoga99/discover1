@@ -19,5 +19,5 @@ $('.service-slider').slick({
     }
   }]
 });
-
+AOS.init();
 }); 
